@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuedushredders-lgtm.github.io/sitemap.xml
