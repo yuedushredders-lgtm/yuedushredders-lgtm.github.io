@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>YD-PZ 系列三合一保密销毁系统 | 上海越都科技有限公司</title>
+  <meta name="description" content="YD-PZ 系列三合一销毁系统，集书本销毁、硬盘粉碎、磁盘消磁于一体，广泛应用于银行、政府、军队及大型数据中心。">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO: JSON-LD 结构化数据 -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "YD-PZ 系列三合一保密销毁系统",
+    "image": "https://yuedushredders-lgtm.github.io/images/pz-series.jpg",
+    "description": "集书本销毁、硬盘粉碎、磁盘消磁为一体的三合一保密销毁系统，符合中国国家一级保密标准与DIN 66399 P-7标准。",
+    "brand": {
+      "@type": "Organization",
+      "name": "上海越都科技有限公司"
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Yuedu Shredders"
+    },
+    "url": "https://yuedushredders-lgtm.github.io/products/pz-series.html",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "CNY",
+      "availability": "https://schema.org/InStock",
+      "url": "https://yuedushredders-lgtm.github.io/contact.html"
+    }
+  }
+  </script>
+
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+    h1 { color: #004080; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
+    th { background: #f0f0f0; }
+    .contact { margin-top: 30px; padding: 15px; background: #f9f9f9; border: 1px solid #ddd; }
+  </style>
+</head>
+<body>
+  <h1>YD-PZ 系列三合一保密销毁系统</h1>
+  <p>
+    YD-PZ 系列为多功能一体化销毁设备，结合 <b>书本粉碎 + 硬盘粉碎 + 磁盘消磁</b> 三大功能，满足政府机关、银行、军队及大型企业的数据安全与保密需求。
+  </p>
+
+  <h2>主要参数</h2>
+  <table>
+    <tr>
+      <th>型号</th>
+      <th>销毁类型</th>
+      <th>出料尺寸</th>
+      <th>处理能力</th>
+      <th>电机功率</th>
+    </tr>
+    <tr>
+      <td>YD-PZ600</td>
+      <td>书本 / 硬盘 / 磁盘</td>
+      <td>1-5mm 粉末</td>
+      <td>500-800kg/h</td>
+      <td>22 kW</td>
+    </tr>
+    <tr>
+      <td>YD-PZ800</td>
+      <td>书本 / 硬盘 / 磁盘</td>
+      <td>1-3mm 粉末</td>
+      <td>800-1200kg/h</td>
+      <td>37 kW</td>
+    </tr>
+  </table>
+
+  <div class="contact">
+    <h2>联系我们</h2>
+    <p>上海越都科技有限公司</p>
+    <p>Email: <a href="mailto:yuedushredders@gmail.com">yuedushredders@gmail.com</a></p>
+    <p>电话: +86 21 1234 5678</p>
+    <p>地址: 中国 · 上海市宝山城市工业园区</p>
+  </div>
+</body>
+</html>
